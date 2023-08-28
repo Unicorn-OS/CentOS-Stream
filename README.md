@@ -1,2 +1,3 @@
-# Silverblue.Fedora
-home: https://silverblue.fedoraproject.org/ , about: https://silverblue.fedoraproject.org/about
+# CentOS Stream
+Home: https://www.centos.org/centos-stream/
+wiki: https://en.wikipedia.org/wiki/CentOS_Stream
